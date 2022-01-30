@@ -44,4 +44,3 @@ The basic idea behind the N-Queen problem is arranging N chess queens on a N x N
     <li>Using <i>Get Help</i> Button :<br><img src="Images/Screenshot-4.png" alt="Using Get Help Button"><br><br></li>
 </ul>
 
-# N-Queen-Puzzle-Game
