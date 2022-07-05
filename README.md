@@ -38,9 +38,9 @@ The basic idea behind the N-Queen problem is arranging N chess queens on a N x N
 
 ## Screenshot :
 <ul>
-    <li>Asking to enter grid size :<br><img src="Images/Screenshot-1.png" alt="Asking to enter grid size"><br><br></li>
-    <li>Solving Puzzle :<br><img src="Images/Screenshot-2.png" alt="Solving Puzzle"><br><br></li>
-    <li>Message after solving the puzzle :<br><img src="Images/Screenshot-3.png" alt="After winng the game"><br><br></li>
-    <li>Using <i>Get Help</i> Button :<br><img src="Images/Screenshot-4.png" alt="Using Get Help Button"><br><br></li>
+    <li>Asking to enter grid size :<br><img src="Images/Screenshot 1.png" alt="Asking to enter grid size"><br><br></li>
+    <li>Solving Puzzle :<br><img src="Images/Screenshot 2.png" alt="Solving Puzzle"><br><br></li>
+    <li>Message after solving the puzzle :<br><img src="Images/Screenshot 3.png" alt="After winng the game"><br><br></li>
+    <li>Using <i>Get Help</i> Button :<br><img src="Images/Screenshot 4.png" alt="Using Get Help Button"><br><br></li>
 </ul>
 
